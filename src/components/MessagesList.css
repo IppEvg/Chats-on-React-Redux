@@ -1,0 +1,19 @@
+.listMessages{
+    list-style-type: none;
+    max-width: 600px;
+    margin: 10px auto;
+}
+.messages{
+    display: grid;
+    grid-template-columns: 1fr 1fr 4fr;
+    grid-template-rows: 1fr;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-bottom: 2px;
+}
+.nameInputName{
+    color: green;
+}
+.leftTime{
+    text-align: left;
+}

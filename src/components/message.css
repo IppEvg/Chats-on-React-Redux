@@ -1,0 +1,8 @@
+.wrapMessage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 90px;
+    gap:10px;
+    
+}
